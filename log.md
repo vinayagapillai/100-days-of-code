@@ -1,10 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 1: January 1, 2021 (Example 1)
+##### Tap Till you Die
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Created a simple tapping game
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** Struggled with adding audio to game, but brackeys video made it clear
+
+**Link to work:** [Tap Till you Die](https://github.com/vinayagapillai/tap-till-you-die.git)
