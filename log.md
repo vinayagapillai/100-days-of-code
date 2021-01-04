@@ -29,3 +29,13 @@
 **Thoughts:** Struggling with calculating the 3D math for rotation and stuff
 
 **Link to work:** [Circle X Square](https://github.com/vinayagapillai/circle-x-square)
+
+
+### Day 4: January 4, 2021
+##### Unity Dialogue Management
+
+**Today's Progress**: Basic 2D Dialogue manager between NPC's
+
+**Thoughts:** A bit confusing cuz a lot of classes are involved, practicing must make them easier to understand.
+
+**Link to work:** [Conversation](https://github.com/vinayagapillai/conversation)
