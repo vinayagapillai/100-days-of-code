@@ -12,3 +12,5 @@ Created a Soft Body Physics material in Unity,it was pretty difficult but comple
 Learned 2D movement script and efficint way of doing it. https://github.com/vinayagapillai/circle-x-square
 ### R3D1
 2D Dialogue Management between NPC's https://github.com/vinayagapillai/conversation
+### R2D3
+Enemy follows player. https://github.com/vinayagapillai/circle-x-square

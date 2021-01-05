@@ -39,3 +39,13 @@
 **Thoughts:** A bit confusing cuz a lot of classes are involved, practicing must make them easier to understand.
 
 **Link to work:** [Conversation](https://github.com/vinayagapillai/conversation)
+
+
+### Day 5: January 5, 2021
+##### Circle x Square Enemy code
+
+**Today's Progress**: The enemy follows the player
+
+**Thoughts:** At first I was playing with A* pathfinding, but it doesnt work very well with my game, so that took all of the time
+
+**Link to work:** [Circle X Square](https://github.com/vinayagapillai/circle-x-square)
