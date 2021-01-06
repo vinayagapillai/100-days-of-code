@@ -14,3 +14,5 @@ Learned 2D movement script and efficint way of doing it. https://github.com/vina
 2D Dialogue Management between NPC's https://github.com/vinayagapillai/conversation
 ### R2D3
 Enemy follows player. https://github.com/vinayagapillai/circle-x-square
+### R2D4
+Enemy can now shoot the player, Added main menu and music. https://github.com/vinayagapillai/circle-x-square
