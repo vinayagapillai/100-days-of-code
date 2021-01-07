@@ -61,11 +61,11 @@
 **Link to work:** [Circle X Square](https://github.com/vinayagapillai/circle-x-square)
 
 
-### Day 6: January 6, 2021
-##### Circle x Square Enemy code(Shooting)
+### Day 7: January 7, 2021
+##### Circle x Square Multiplayer Setup
 
-**Today's Progress**: Now the enemy can shoot the player
+**Today's Progress**: A little bit of multiplayer code
 
-**Thoughts:** Today I didnt do much, just added shooting code, a main menu and some music. I had some other things to do
+**Thoughts:** Today was a busy day, i had no time to code more, so only added a bit of multiplayer code
 
 **Link to work:** [Circle X Square](https://github.com/vinayagapillai/circle-x-square)
