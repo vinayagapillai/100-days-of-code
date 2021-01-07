@@ -59,3 +59,13 @@
 **Thoughts:** Today I didnt do much, just added shooting code, a main menu and some music. I had some other things to do
 
 **Link to work:** [Circle X Square](https://github.com/vinayagapillai/circle-x-square)
+
+
+### Day 6: January 6, 2021
+##### Circle x Square Enemy code(Shooting)
+
+**Today's Progress**: Now the enemy can shoot the player
+
+**Thoughts:** Today I didnt do much, just added shooting code, a main menu and some music. I had some other things to do
+
+**Link to work:** [Circle X Square](https://github.com/vinayagapillai/circle-x-square)
