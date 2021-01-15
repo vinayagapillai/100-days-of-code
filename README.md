@@ -69,3 +69,13 @@
 **Thoughts:** Today was a busy day, i had no time to code more, so only added a bit of multiplayer code
 
 **Link to work:** [Circle X Square](https://github.com/vinayagapillai/circle-x-square)
+
+
+### Day 8: January 15, 2021
+##### Multiplayer Test
+
+**Today's Progress**: A little bit of multiplayer code
+
+**Thoughts:** It is difficult to get your head around when dealing with multiplayer, today that was the only task I was doing, not much of coding.
+
+**Link to work:** [Multiplayer Test](https://github.com/vinayagapillai/multiplayerTest.git)
